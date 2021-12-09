@@ -1,0 +1,31 @@
+{
+  "name": "jest-environment-puppeteer",
+  "description": "Puppeteer environment for Jest.",
+  "version": "6.0.2",
+  "main": "index.js",
+  "repository": "https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-environment-puppeteer",
+  "author": "Greg Bergé <berge.greg@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "jest",
+    "jest-environment",
+    "puppeteer",
+    "jest-puppeteer",
+    "chromeless",
+    "chrome-headless"
+  ],
+  "scripts": {
+    "prebuild": "rimraf lib/",
+    "build": "babel --config-file ../../babel.config.js -d lib --ignore \"**/*.test.js\" src",
+    "dev": "yarn build --watch",
+    "prepublishOnly": "yarn build"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cwd": "^0.10.0",
+    "jest-dev-server": "^6.0.2",
+    "jest-environment-node": "^27.3.1",
+    "merge-deep": "^3.0.3"
+  },
+  "gitHead": "a6834d88c4e8102233beb07ef928f036ff53fb59"
+}
