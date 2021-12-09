@@ -65,28 +65,28 @@
 }
 .ant-pagination-item:focus-visible,
 .ant-pagination-item:hover {
-  border-color: #1890ff;
+  border-color: #a98ed6;
   transition: all 0.3s;
 }
 .ant-pagination-item:focus-visible a,
 .ant-pagination-item:hover a {
-  color: #1890ff;
+  color: #a98ed6;
 }
 .ant-pagination-item-active {
   font-weight: 500;
   background: #fff;
-  border-color: #1890ff;
+  border-color: #a98ed6;
 }
 .ant-pagination-item-active a {
-  color: #1890ff;
+  color: #a98ed6;
 }
 .ant-pagination-item-active:focus-visible,
 .ant-pagination-item-active:hover {
-  border-color: #40a9ff;
+  border-color: #cbbae3;
 }
 .ant-pagination-item-active:focus-visible a,
 .ant-pagination-item-active:hover a {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 .ant-pagination-jump-prev,
 .ant-pagination-jump-next {
@@ -98,7 +98,7 @@
 }
 .ant-pagination-jump-prev .ant-pagination-item-container .ant-pagination-item-link-icon,
 .ant-pagination-jump-next .ant-pagination-item-container .ant-pagination-item-link-icon {
-  color: #1890ff;
+  color: #a98ed6;
   font-size: 12px;
   letter-spacing: -1px;
   opacity: 0;
@@ -179,7 +179,7 @@
 }
 .ant-pagination-prev:hover button,
 .ant-pagination-next:hover button {
-  border-color: #40a9ff;
+  border-color: #cbbae3;
 }
 .ant-pagination-prev .ant-pagination-item-link,
 .ant-pagination-next .ant-pagination-item-link {
@@ -199,8 +199,8 @@
 .ant-pagination-next:focus-visible .ant-pagination-item-link,
 .ant-pagination-prev:hover .ant-pagination-item-link,
 .ant-pagination-next:hover .ant-pagination-item-link {
-  color: #1890ff;
-  border-color: #1890ff;
+  color: #a98ed6;
+  border-color: #a98ed6;
 }
 .ant-pagination-disabled,
 .ant-pagination-disabled:hover,
@@ -283,13 +283,13 @@
   text-overflow: ellipsis;
 }
 .ant-pagination-options-quick-jumper input:hover {
-  border-color: #40a9ff;
+  border-color: #cbbae3;
   border-right-width: 1px !important;
 }
 .ant-pagination-options-quick-jumper input:focus,
 .ant-pagination-options-quick-jumper input-focused {
-  border-color: #40a9ff;
-  box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+  border-color: #cbbae3;
+  box-shadow: 0 0 0 2px rgba(169, 142, 214, 0.2);
   border-right-width: 1px !important;
   outline: 0;
 }
@@ -377,11 +377,11 @@ textarea.ant-pagination-options-quick-jumper input {
   transition: border-color 0.3s;
 }
 .ant-pagination-simple .ant-pagination-simple-pager input:hover {
-  border-color: #1890ff;
+  border-color: #a98ed6;
 }
 .ant-pagination-simple .ant-pagination-simple-pager input:focus {
-  border-color: #40a9ff;
-  box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+  border-color: #cbbae3;
+  box-shadow: 0 0 0 2px rgba(169, 142, 214, 0.2);
 }
 .ant-pagination-simple .ant-pagination-simple-pager input[disabled] {
   color: rgba(0, 0, 0, 0.25);

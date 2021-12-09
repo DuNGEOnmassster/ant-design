@@ -146,7 +146,7 @@ module.exports = {
   "theme": "default",
   "ant-prefix": "ant",
   "html-selector": "html",
-  "primary-color": "@blue-6",
+  "primary-color": "#a98ed6",
   "primary-color-hover": "color(~`colorPalette('@{primary-color}', 5) `)",
   "primary-color-active": "color(~`colorPalette('@{primary-color}', 7) `)",
   "primary-color-outline": "fade(@primary-color, @outline-fade)",

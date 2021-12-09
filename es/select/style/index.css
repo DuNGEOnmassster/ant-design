@@ -352,8 +352,8 @@
   cursor: auto;
 }
 .ant-select-focused:not(.ant-select-disabled).ant-select:not(.ant-select-customize-input) .ant-select-selector {
-  border-color: #40a9ff;
-  box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+  border-color: #cbbae3;
+  box-shadow: 0 0 0 2px rgba(169, 142, 214, 0.2);
   border-right-width: 1px !important;
   outline: 0;
 }
@@ -384,7 +384,7 @@
   -webkit-appearance: none;
 }
 .ant-select:not(.ant-select-disabled):hover .ant-select-selector {
-  border-color: #40a9ff;
+  border-color: #cbbae3;
   border-right-width: 1px !important;
 }
 .ant-select-selection-item {
@@ -583,10 +583,10 @@
 .ant-select-item-option-selected:not(.ant-select-item-option-disabled) {
   color: rgba(0, 0, 0, 0.85);
   font-weight: 600;
-  background-color: #e6f7ff;
+  background-color: #f8f0ff;
 }
 .ant-select-item-option-selected:not(.ant-select-item-option-disabled) .ant-select-item-option-state {
-  color: #1890ff;
+  color: #a98ed6;
 }
 .ant-select-item-option-disabled {
   color: rgba(0, 0, 0, 0.25);

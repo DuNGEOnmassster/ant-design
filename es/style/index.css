@@ -134,7 +134,7 @@ sup {
   top: -0.5em;
 }
 a {
-  color: #1890ff;
+  color: #a98ed6;
   text-decoration: none;
   background-color: transparent;
   outline: none;
@@ -143,10 +143,10 @@ a {
   -webkit-text-decoration-skip: objects;
 }
 a:hover {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 a:active {
-  color: #096dd9;
+  color: #836bb0;
 }
 a:active,
 a:hover {
@@ -305,11 +305,11 @@ mark {
 }
 ::-moz-selection {
   color: #fff;
-  background: #1890ff;
+  background: #a98ed6;
 }
 ::selection {
   color: #fff;
-  background: #1890ff;
+  background: #a98ed6;
 }
 .clearfix::before {
   display: table;
@@ -801,7 +801,7 @@ mark {
   position: relative;
 }
 html {
-  --antd-wave-shadow-color: #1890ff;
+  --antd-wave-shadow-color: #a98ed6;
   --scroll-bar: 0;
 }
 [ant-click-animating-without-extra-node='true']::after,
@@ -813,7 +813,7 @@ html {
   left: 0;
   display: block;
   border-radius: inherit;
-  box-shadow: 0 0 0 0 #1890ff;
+  box-shadow: 0 0 0 0 #a98ed6;
   box-shadow: 0 0 0 0 var(--antd-wave-shadow-color);
   opacity: 0.2;
   -webkit-animation: fadeEffect 2s cubic-bezier(0.08, 0.82, 0.17, 1), waveEffect 0.4s cubic-bezier(0.08, 0.82, 0.17, 1);
@@ -825,13 +825,13 @@ html {
 }
 @-webkit-keyframes waveEffect {
   100% {
-    box-shadow: 0 0 0 #1890ff;
+    box-shadow: 0 0 0 #a98ed6;
     box-shadow: 0 0 0 6px var(--antd-wave-shadow-color);
   }
 }
 @keyframes waveEffect {
   100% {
-    box-shadow: 0 0 0 #1890ff;
+    box-shadow: 0 0 0 #a98ed6;
     box-shadow: 0 0 0 6px var(--antd-wave-shadow-color);
   }
 }

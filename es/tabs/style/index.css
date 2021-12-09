@@ -345,7 +345,7 @@
   cursor: pointer;
 }
 .ant-tabs-dropdown-menu-item-remove:hover {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 .ant-tabs-dropdown-menu-item:hover {
   background: #f5f5f5;
@@ -366,7 +366,7 @@
 }
 .ant-tabs-card > .ant-tabs-nav .ant-tabs-tab-active,
 .ant-tabs-card > div > .ant-tabs-nav .ant-tabs-tab-active {
-  color: #1890ff;
+  color: #a98ed6;
   background: #fff;
 }
 .ant-tabs-card > .ant-tabs-nav .ant-tabs-ink-bar,
@@ -507,13 +507,13 @@
 }
 .ant-tabs > .ant-tabs-nav .ant-tabs-nav-add:hover,
 .ant-tabs > div > .ant-tabs-nav .ant-tabs-nav-add:hover {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 .ant-tabs > .ant-tabs-nav .ant-tabs-nav-add:active,
 .ant-tabs > div > .ant-tabs-nav .ant-tabs-nav-add:active,
 .ant-tabs > .ant-tabs-nav .ant-tabs-nav-add:focus,
 .ant-tabs > div > .ant-tabs-nav .ant-tabs-nav-add:focus {
-  color: #096dd9;
+  color: #836bb0;
 }
 .ant-tabs-extra-content {
   flex: none;
@@ -524,7 +524,7 @@
 }
 .ant-tabs-ink-bar {
   position: absolute;
-  background: #1890ff;
+  background: #a98ed6;
   pointer-events: none;
 }
 .ant-tabs-tab {
@@ -542,7 +542,7 @@
 .ant-tabs-tab-remove:focus,
 .ant-tabs-tab-btn:active,
 .ant-tabs-tab-remove:active {
-  color: #096dd9;
+  color: #836bb0;
 }
 .ant-tabs-tab-btn {
   outline: none;
@@ -564,10 +564,10 @@
   color: rgba(0, 0, 0, 0.85);
 }
 .ant-tabs-tab:hover {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
-  color: #1890ff;
+  color: #a98ed6;
   text-shadow: 0 0 0.25px currentColor;
 }
 .ant-tabs-tab.ant-tabs-tab-disabled {

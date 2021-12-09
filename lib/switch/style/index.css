@@ -33,13 +33,13 @@
   box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
 }
 .ant-switch-checked:focus {
-  box-shadow: 0 0 0 2px #e6f7ff;
+  box-shadow: 0 0 0 2px #f8f0ff;
 }
 .ant-switch:focus:hover {
   box-shadow: none;
 }
 .ant-switch-checked {
-  background-color: #1890ff;
+  background-color: #a98ed6;
 }
 .ant-switch-loading,
 .ant-switch-disabled {
@@ -99,7 +99,7 @@
   vertical-align: top;
 }
 .ant-switch-checked .ant-switch-loading-icon {
-  color: #1890ff;
+  color: #a98ed6;
 }
 .ant-switch-small {
   min-width: 28px;

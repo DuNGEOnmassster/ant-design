@@ -155,7 +155,7 @@
   text-overflow: ellipsis;
 }
 .ant-transfer-list-content-item-remove {
-  color: #1890ff;
+  color: #a98ed6;
   text-decoration: none;
   outline: none;
   cursor: pointer;
@@ -165,10 +165,10 @@
 }
 .ant-transfer-list-content-item-remove:focus,
 .ant-transfer-list-content-item-remove:hover {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 .ant-transfer-list-content-item-remove:active {
-  color: #096dd9;
+  color: #836bb0;
 }
 .ant-transfer-list-content-item-remove::after {
   position: absolute;
@@ -179,21 +179,21 @@
   content: '';
 }
 .ant-transfer-list-content-item-remove:hover {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 .ant-transfer-list-content-item:not(.ant-transfer-list-content-item-disabled):hover {
   background-color: #f5f5f5;
   cursor: pointer;
 }
 .ant-transfer-list-content-item:not(.ant-transfer-list-content-item-disabled).ant-transfer-list-content-item-checked:hover {
-  background-color: #dcf4ff;
+  background-color: #f3e6ff;
 }
 .ant-transfer-list-content-show-remove .ant-transfer-list-content-item:not(.ant-transfer-list-content-item-disabled):hover {
   background: transparent;
   cursor: default;
 }
 .ant-transfer-list-content-item-checked {
-  background-color: #e6f7ff;
+  background-color: #f8f0ff;
 }
 .ant-transfer-list-content-item-disabled {
   color: rgba(0, 0, 0, 0.25);

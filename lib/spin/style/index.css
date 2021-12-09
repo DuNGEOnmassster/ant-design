@@ -14,7 +14,7 @@
   font-feature-settings: 'tnum';
   position: absolute;
   display: none;
-  color: #1890ff;
+  color: #a98ed6;
   text-align: center;
   vertical-align: middle;
   opacity: 0;
@@ -120,7 +120,7 @@
   display: block;
   width: 9px;
   height: 9px;
-  background-color: #1890ff;
+  background-color: #a98ed6;
   border-radius: 100%;
   transform: scale(0.75);
   transform-origin: 50% 50%;

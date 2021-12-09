@@ -39,11 +39,11 @@
   color: #52c41a;
 }
 .ant-alert-info {
-  background-color: #e6f7ff;
-  border: 1px solid #91d5ff;
+  background-color: #f8f0ff;
+  border: 1px solid #f5edfc;
 }
 .ant-alert-info .ant-alert-icon {
-  color: #1890ff;
+  color: #a98ed6;
 }
 .ant-alert-warning {
   background-color: #fffbe6;

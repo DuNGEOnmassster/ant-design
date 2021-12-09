@@ -31,7 +31,7 @@
   line-height: 1;
 }
 .ant-page-header-back-button {
-  color: #1890ff;
+  color: #a98ed6;
   text-decoration: none;
   outline: none;
   transition: color 0.3s;
@@ -40,10 +40,10 @@
 }
 .ant-page-header-back-button:focus,
 .ant-page-header-back-button:hover {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 .ant-page-header-back-button:active {
-  color: #096dd9;
+  color: #836bb0;
 }
 .ant-page-header .ant-divider-vertical {
   height: 14px;

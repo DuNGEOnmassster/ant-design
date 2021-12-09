@@ -176,7 +176,7 @@
   cursor: pointer;
 }
 .ant-card-actions > li > span:hover {
-  color: #1890ff;
+  color: #a98ed6;
   transition: color 0.3s;
 }
 .ant-card-actions > li > span a:not(.ant-btn),
@@ -189,7 +189,7 @@
 }
 .ant-card-actions > li > span a:not(.ant-btn):hover,
 .ant-card-actions > li > span > .anticon:hover {
-  color: #1890ff;
+  color: #a98ed6;
 }
 .ant-card-actions > li > span > .anticon {
   font-size: 16px;
