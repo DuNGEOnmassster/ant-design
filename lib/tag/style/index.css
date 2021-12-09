@@ -61,17 +61,17 @@
   cursor: pointer;
 }
 .ant-tag-checkable:not(.ant-tag-checkable-checked):hover {
-  color: #1890ff;
+  color: #a98ed6;
 }
 .ant-tag-checkable:active,
 .ant-tag-checkable-checked {
   color: #fff;
 }
 .ant-tag-checkable-checked {
-  background-color: #1890ff;
+  background-color: #a98ed6;
 }
 .ant-tag-checkable:active {
-  background-color: #096dd9;
+  background-color: #836bb0;
 }
 .ant-tag-hidden {
   display: none;
@@ -212,9 +212,9 @@
   border-color: #b7eb8f;
 }
 .ant-tag-processing {
-  color: #1890ff;
-  background: #e6f7ff;
-  border-color: #91d5ff;
+  color: #a98ed6;
+  background: #f8f0ff;
+  border-color: #f5edfc;
 }
 .ant-tag-error {
   color: #ff4d4f;

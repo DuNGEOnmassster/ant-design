@@ -136,7 +136,7 @@ span.ant-typography-ellipsis {
 }
 a.ant-typography,
 .ant-typography a {
-  color: #1890ff;
+  color: #a98ed6;
   outline: none;
   cursor: pointer;
   transition: color 0.3s;
@@ -146,11 +146,11 @@ a.ant-typography:focus,
 .ant-typography a:focus,
 a.ant-typography:hover,
 .ant-typography a:hover {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 a.ant-typography:active,
 .ant-typography a:active {
-  color: #096dd9;
+  color: #836bb0;
 }
 a.ant-typography:active,
 .ant-typography a:active,
@@ -218,7 +218,7 @@ a.ant-typography.ant-typography-disabled:active,
 .ant-typography-expand,
 .ant-typography-edit,
 .ant-typography-copy {
-  color: #1890ff;
+  color: #a98ed6;
   text-decoration: none;
   outline: none;
   cursor: pointer;
@@ -231,12 +231,12 @@ a.ant-typography.ant-typography-disabled:active,
 .ant-typography-expand:hover,
 .ant-typography-edit:hover,
 .ant-typography-copy:hover {
-  color: #40a9ff;
+  color: #cbbae3;
 }
 .ant-typography-expand:active,
 .ant-typography-edit:active,
 .ant-typography-copy:active {
-  color: #096dd9;
+  color: #836bb0;
 }
 .ant-typography-copy-success,
 .ant-typography-copy-success:hover,

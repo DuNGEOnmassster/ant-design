@@ -484,12 +484,12 @@
   border-color: #d9d9d9;
 }
 .ant-form-item-has-error .ant-transfer-list-search:not([disabled]):hover {
-  border-color: #40a9ff;
+  border-color: #cbbae3;
   border-right-width: 1px !important;
 }
 .ant-form-item-has-error .ant-transfer-list-search:not([disabled]):focus {
-  border-color: #40a9ff;
-  box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+  border-color: #cbbae3;
+  box-shadow: 0 0 0 2px rgba(169, 142, 214, 0.2);
   border-right-width: 1px !important;
   outline: 0;
 }
@@ -511,7 +511,7 @@
 }
 .ant-form-item-is-validating.ant-form-item-has-feedback .ant-form-item-children-icon {
   display: inline-block;
-  color: #1890ff;
+  color: #a98ed6;
 }
 .ant-form {
   box-sizing: border-box;

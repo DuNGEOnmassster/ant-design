@@ -88,7 +88,7 @@
 .ant-slider-track {
   position: absolute;
   height: 4px;
-  background-color: #91d5ff;
+  background-color: #f5edfc;
   border-radius: 2px;
   transition: background-color 0.3s;
 }
@@ -98,32 +98,32 @@
   height: 14px;
   margin-top: -5px;
   background-color: #fff;
-  border: solid 2px #91d5ff;
+  border: solid 2px #f5edfc;
   border-radius: 50%;
   box-shadow: 0;
   cursor: pointer;
   transition: border-color 0.3s, box-shadow 0.6s, transform 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
 }
 .ant-slider-handle-dragging.ant-slider-handle-dragging.ant-slider-handle-dragging {
-  border-color: #46a6ff;
-  box-shadow: 0 0 0 5px rgba(24, 144, 255, 0.12);
+  border-color: #baa5de;
+  box-shadow: 0 0 0 5px rgba(169, 142, 214, 0.12);
 }
 .ant-slider-handle:focus {
-  border-color: #46a6ff;
+  border-color: #baa5de;
   outline: none;
-  box-shadow: 0 0 0 5px rgba(24, 144, 255, 0.12);
+  box-shadow: 0 0 0 5px rgba(169, 142, 214, 0.12);
 }
 .ant-slider-handle.ant-tooltip-open {
-  border-color: #1890ff;
+  border-color: #a98ed6;
 }
 .ant-slider:hover .ant-slider-rail {
   background-color: #e1e1e1;
 }
 .ant-slider:hover .ant-slider-track {
-  background-color: #69c0ff;
+  background-color: #e8e1f0;
 }
 .ant-slider:hover .ant-slider-handle:not(.ant-tooltip-open) {
-  border-color: #69c0ff;
+  border-color: #e8e1f0;
 }
 .ant-slider-mark {
   position: absolute;
@@ -171,7 +171,7 @@
   margin-left: -4px;
 }
 .ant-slider-dot-active {
-  border-color: #8cc8ff;
+  border-color: #d4c7eb;
 }
 .ant-slider-disabled {
   cursor: not-allowed;

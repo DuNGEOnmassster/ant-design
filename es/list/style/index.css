@@ -79,7 +79,7 @@
   transition: all 0.3s;
 }
 .ant-list-item-meta-title > a:hover {
-  color: #1890ff;
+  color: #a98ed6;
 }
 .ant-list-item-meta-description {
   color: rgba(0, 0, 0, 0.45);
